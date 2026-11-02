@@ -1,24 +1,116 @@
-# 💫 About Me:
-🔭 I’m currently working on a microservices-based Bug Tracking System with Spring Boot, JPA, and Docker  <br>🤝 I’m looking to collaborate on backend-heavy projects or open-source tools using Java and Spring Boot  <br>🧠 I’m looking for help with mastering Kubernetes and setting up secure CI/CD pipelines  <br>🌱 I’m currently learning Kafka, system design principles, and container orchestration with Kubernetes  <br>💬 Ask me about Java, Spring Boot, REST APIs, or how to lead an Agile sprint like a pro  <br>⚡ Fun fact: I love long drives as much as clean architecture 😄  <br>
+👋 Hey there, I'm Devansh Shahu!
 
+🚀 Software Developer | Java Full Stack Engineer | Exploring Agentic AI
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-shahu-a8b06824a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahudev51@gmail.com) 
+💫 About Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShahuDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShahuDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahuDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShahuDev&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+- 🔭 Currently building "RepoLens" (https://github.com/ShahuDev/RepoLens) — an AI agent that understands codebases, tests applications in a real browser, and traces bugs back to the exact class and method responsible.
+- 🤖 Exploring Spring AI, RAG, Agentic AI, MCP, and Multi-Agent Systems.
+- 💻 Passionate about building scalable backend systems, microservices, and AI-powered developer tools.
+- 🌱 Currently learning Agentic AI patterns, System Design, and AWS.
+- 🤝 Open to collaborating on backend-heavy projects, AI developer tools, and open-source contributions.
+- 💬 Ask me about Java, Spring Boot, REST APIs, Microservices, and Spring AI.
+- ⚡ Fun fact: I love long drives as much as clean architecture!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShahuDev&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🚀 Featured Projects
+
+🤖 "RepoLens" (https://github.com/ShahuDev/RepoLens)
+
+AI-Powered Code Intelligence & Autonomous QA Agent
+
+An AI agent that indexes Java codebases using code-aware chunking (JavaParser + PGVector), answers questions with file and line citations, generates test plans, executes tests in a real browser using Playwright, and traces failures back to the responsible source code.
+
+"Java" "Spring Boot" "Spring AI" "PGVector" "Playwright" "Ollama"
+
+💳 SurePay
+
+AI-Powered Payment Platform
+
+A microservices-based payment platform featuring API Gateway, Eureka Service Discovery, JWT-secured REST APIs, Kafka-based event-driven transactions, and an AI-powered fraud detection service built with Spring AI.
+
+"Java" "Spring Boot" "Spring AI" "Kafka" "Docker" "Angular"
+
+🐞 Bug Tracking System
+
+Role-Based Bug Lifecycle Management
+
+A role-based bug tracking application featuring optimized MySQL queries, Docker containerization, and automated testing using JUnit and Mockito.
+
+"Java" "Spring Boot" "MySQL" "Docker" "Angular"
+
+---
+
+🌐 Connect With Me
+
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)" (https://linkedin.com/in/devansh-shahu-a8b06824a)
+""GitHub" (https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)" (https://github.com/ShahuDev)
+""Email" (https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)" (mailto:shahudev51@gmail.com)
+
+---
+
+💻 Tech Stack
+
+Backend & AI
+
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+"Spring Boot" (https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+"Spring AI" (https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+Frontend
+
+"Angular" (https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+Databases & Messaging
+
+"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+"Redis" (https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+"Apache Kafka" (https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+Cloud, DevOps & Tools
+
+"AWS" (https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"Maven" (https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+"Swagger" (https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+"Prometheus" (https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+"SonarQube" (https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+---
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahuDev&theme=tokyonight&hide_border=true&show_icons=true" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ShahuDev&theme=tokyonight&hide_border=true" height="165" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahuDev&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+</p>---
+
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShahuDev&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>---
+
+💭 Developer Quote
+
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ShahuDev&icon=5&color=6" />
+</p><h3 align="center">⚡ Building. Learning. Innovating. One commit at a time. 🚀</h3>
